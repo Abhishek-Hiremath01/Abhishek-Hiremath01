@@ -1,6 +1,6 @@
 <!-- Header with typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi there,+I'm+Abhishek+Hiremath+%F0%9F%91%8B;Front-End+Developer;React+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=+Hi+there,+I'm+Abhishek+Hiremath+%F0%9F%91%8B;Front-End+Developer;React+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
 
 <!-- Profile Views Counter -->
