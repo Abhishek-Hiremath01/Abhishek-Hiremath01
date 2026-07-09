@@ -34,28 +34,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Abhishek-Hiremath01&theme=radical&margin-w=15" alt="Trophies" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <!-- General Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Hiremath01&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Hiremath01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-<br>
-<div align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Hiremath01&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🔗 Connect with me
 
 <div align="center">
