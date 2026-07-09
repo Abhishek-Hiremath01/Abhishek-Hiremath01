@@ -1,11 +1,11 @@
 <!-- Header with typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+[Your+Name]+%F0%9F%91%8B;Full-Stack+Developer;Open-Source+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there,+I'm Abhishek Hiremath+%F0%9F%91%8B;Full-Stack+Developer;Open-Source+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
 
 <!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Abhishek-Hiremath01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
